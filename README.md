@@ -1,1 +1,1 @@
-.. image:: https://github.com/xdavidhu/toDoBot/raw/master/logos/toDoBot-wideLogo.png
+.. image:: https://raw.githubusercontent.com/xdavidhu/toDoBot/master/logos/toDoBot-wideLogo.png
