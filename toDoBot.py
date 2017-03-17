@@ -35,7 +35,6 @@ def doneToDo(id, channel):
         i += 1
         if i == id:
             success = True
-            i -= 1
             db.remove(db[i])
     return success
 
